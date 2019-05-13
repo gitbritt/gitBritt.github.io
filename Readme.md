@@ -36,11 +36,13 @@ I am currently looking for a full time position in the field of Computing.
 
 <a class = 'link_buttons' href = "https://github.com/gitbritt/3D_Printer_Software">3D Printer software</a><br/><br/>
 
-# Current Projects
-
 <a class = 'link_buttons' href = "https://github.com/gitbritt/SpreadSheet_To_DataBase"> Spreadsheet to database uploader</a><br/><br/>
 
 <a class = 'link_buttons' href = "https://github.com/gitbritt/222_web_app"> MIPS Assembly Language Web App</a><br/><br/>
+
+# Current Projects
+
+
 
 # Photography sites
 
