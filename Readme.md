@@ -17,7 +17,7 @@ I am currently looking for a full time position in the field of Computing.
 <br />
 <br />
 
-<a class = 'link_buttons' href="/resume">Resume</a>
+<a class = 'link_buttons' href="https://docs.google.com/document/d/1rDnEKC5RAUeeWXWxNWOkZ-mxKcIkvCydGhsCaYBz14g/preview">Resume</a>
 <br />
 <br />
 
