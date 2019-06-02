@@ -5,8 +5,7 @@ Hello,
 
 
 My name is Dillon Britt.
-I am a student at Southern Adventist University.
-I am a senior and I graduate in May 2019 with a B.S. degree in Computer Science.
+I just recently graduated from Southern Adventist University in May of 2019.
 I am currently looking for a full time position in the field of Computing.
 
 
