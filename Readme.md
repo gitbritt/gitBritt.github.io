@@ -44,9 +44,8 @@ I am currently looking for a full time position in the field of Computing.
 <a class = 'link_buttons' href = "http://3dpetra.gitbritt.com/"> 3D Petra </a> <br/><br/>
 
 # Photography sites
+<a class = 'link_buttons' href = "https://portfolio.gitbritt.com/">gitBritt Photos - Portfolio website</a><br/><br/>
 
-<a class = 'link_buttons' href = "https://instagram.com/gitbritt2">gitBritt - My Favorite Photos</a><br/><br/>
+<a class = 'link_buttons' href = "https://instagram.com/gitbritt2">gitBritt - gitBritt Photos - Instagram</a><br/><br/>
 
-<a class = 'link_buttons' href = "https://portfolio.gitbritt.com/">gitBritt - Buy Photo Prints</a><br/><br/>
-
-<a class = 'link_buttons' href = "https://www.500px.com/gitBritt">gitBritt - My Favorite Photos</a><br/><br/>
+<a class = 'link_buttons' href = "https://www.500px.com/gitBritt">gitBritt Photos - 500px</a><br/><br/>
