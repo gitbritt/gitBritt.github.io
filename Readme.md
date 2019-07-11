@@ -20,7 +20,7 @@ I just recently graduated from Southern Adventist University in May of 2019 with
 <br />
 <br />
 
-<a class = 'link_buttons' href="blog.gitbritt.com">Blog</a>
+<a class = 'link_buttons' href="https://blog.gitbritt.com">Blog</a>
 <br />
 <br />
 
