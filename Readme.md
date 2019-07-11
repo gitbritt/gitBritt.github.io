@@ -20,13 +20,17 @@ I just recently graduated from Southern Adventist University in May of 2019 with
 <br />
 <br />
 
+<a class = 'link_buttons' href="blog.gitbritt.com">Blog</a>
+<br />
+<br />
+
 
 <a class = 'link_buttons' href = "mailto: dillonbritt@gmail.com">dillonbritt@gmail.com</a>
 <br />
 <br />
 
 <a class = 'link_buttons' ref="tel:17063839059">1-706-383-9059</a>
-
+<br />
 <br />
 
 # Finished Projects
