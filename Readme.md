@@ -5,8 +5,7 @@ Hello,
 
 
 My name is Dillon Britt.
-I just recently graduated from Southern Adventist University in May of 2019.
-I am currently looking for a full time position in the field of Computing.
+I just recently graduated from Southern Adventist University in May of 2019 with a B.S. in Computer Science.
 
 
 <a class = 'link_buttons' href="http://github.com/gitbritt">GitHub</a>
