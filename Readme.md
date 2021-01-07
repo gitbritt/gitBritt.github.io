@@ -33,7 +33,7 @@ I graduated from Southern Adventist University in May of 2019 with a B.S. in Com
 <br />
 <br />
 
-# Finished Projects
+# Projects
 <a class = 'link_buttons' href = "https://github.com/gitbritt/Multiplayer_Pong">Multiplayer Pong</a><br/><br/>
 
 <a class = 'link_buttons' href = "https://github.com/gitbritt/3D_Printer_Software">3D Printer software</a><br/><br/>
@@ -41,10 +41,6 @@ I graduated from Southern Adventist University in May of 2019 with a B.S. in Com
 <a class = 'link_buttons' href = "https://github.com/gitbritt/SpreadSheet_To_DataBase"> Spreadsheet to database uploader</a><br/><br/>
 
 <a class = 'link_buttons' href = "https://github.com/gitbritt/222_web_app"> MIPS Assembly Language Web App</a><br/><br/>
-
-# Current Projects
-
-<a class = 'link_buttons' href = "http://3dpetra.gitbritt.com/"> 3D Petra </a> <br/><br/>
 
 # Photography sites
 <a class = 'link_buttons' href = "https://portfolio.gitbritt.com/">gitBritt Photos - Portfolio website</a><br/><br/>
