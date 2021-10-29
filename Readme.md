@@ -5,8 +5,13 @@ Hello,
 
 
 My name is Dillon Britt.
-I graduated from Southern Adventist University in May of 2019 with a B.S. in Computer Science, and work at Siskins Rehab Hospital Chattanooga as a SQL ddeveloper.
+I graduated from Southern Adventist University in May of 2019 with a B.S. in Computer Science.
 
+# Employment History
+
+<p>- Blue Cross Blue Shield of TN - Internship 2018</p>
+<p>- Siskin Rehab Hospital - Junior Developer 2019 - 2021</p>
+<p>- It is Written</p>
 
 <a class = 'link_buttons' href="http://github.com/gitbritt">GitHub</a>
 <br />
