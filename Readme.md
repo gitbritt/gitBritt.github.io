@@ -47,9 +47,3 @@ I graduated from Southern Adventist University in May of 2019 with a B.S. in Com
 
 <a class = 'link_buttons' href = "https://github.com/gitbritt/222_web_app"> MIPS Assembly Language Web App</a><br/><br/>
 
-# Photography sites
-<a class = 'link_buttons' href = "https://portfolio.gitbritt.com/">gitBritt Photos - Portfolio website</a><br/><br/>
-
-<a class = 'link_buttons' href = "https://instagram.com/gitbritt2">gitBritt - gitBritt Photos - Instagram</a><br/><br/>
-
-<a class = 'link_buttons' href = "https://www.500px.com/gitBritt">gitBritt Photos - 500px</a><br/><br/>
