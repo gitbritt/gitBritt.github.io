@@ -38,7 +38,12 @@ I graduated from Southern Adventist University in May of 2019 with a B.S. in Com
 <br />
 <br />
 
-# Projects
+# Work Projects
+<a class = 'link_buttons' href = "https://channelstore.roku.com/details/4683dd062d679849557c026635128087/it-is-written-tv">Roku It is written app</a><br/><br/>
+
+<a class = 'link_buttons' href = "https://itiswritten.tv">It Is Written TV web app</a><br/><br/>
+
+# Side Projects
 <a class = 'link_buttons' href = "https://github.com/gitbritt/Multiplayer_Pong">Multiplayer Pong</a><br/><br/>
 
 <a class = 'link_buttons' href = "https://github.com/gitbritt/3D_Printer_Software">3D Printer software</a><br/><br/>
