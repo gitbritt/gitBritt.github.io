@@ -43,6 +43,10 @@ I graduated from Southern Adventist University in May of 2019 with a B.S. in Com
 
 <a class = 'link_buttons' href = "https://itiswritten.tv">It Is Written TV web app</a><br/><br/>
 
+<a class = 'link_buttons' href = "https://play.google.com/store/apps/details?id=tv.itiswritten.app">It Is Written TV Android TV app(Play store)</a><br/><br/>
+
+<a class = 'link_buttons' href = "https://www.amazon.com/It-Is-Written-TV/dp/B07FF5QJSR/ref=sr_1_1?dchild=1&keywords=it+is+written&qid=1618241905&s=mobile-apps&sr=1-1">It Is Written TV Android TV app(Play store)</a><br/><br/>
+
 # Side Projects
 <a class = 'link_buttons' href = "https://github.com/gitbritt/Multiplayer_Pong">Multiplayer Pong</a><br/><br/>
 
