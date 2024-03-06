@@ -34,7 +34,6 @@ I graduated from Southern Adventist University in May of 2019 with a B.S. in Com
 <br />
 <br />
 
-<a class = 'link_buttons' ref="tel:17063839059">1-706-383-9059</a>
 <br />
 <br />
 
