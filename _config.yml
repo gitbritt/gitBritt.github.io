@@ -1,3 +1,5 @@
 
 title: Dillon Britt
 theme: jekyll-theme-minimal
+
+include: [".well-known"]
