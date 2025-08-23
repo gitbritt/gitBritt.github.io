@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fitappblock.app",
+      "sha256_cert_fingerprints": [
+        "F5:1A:C8:17:A4:50:47:BD:42:7B:5D:B1:97:57:79:8D:0A:D3:60:C1:8C:7F:D8:32:EB:9C:B7:06:65:5B:7A:C7"
+      ]
+    }
+  }
+]
