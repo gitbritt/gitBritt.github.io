@@ -1,11 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.fitappblock.app",
-      "sha256_cert_fingerprints":
-        ["F5:1A:C8:17:A4:50:47:BD:42:7B:5D:B1:97:57:79:8D:0A:D3:60:C1:8C:7F:D8:32:EB:9C:B7:06:65:5B:7A:C7"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fitappblock.app",
+    "sha256_cert_fingerprints":
+    ["6B:ED:82:2C:CB:A7:75:E1:EF:5A:0D:E3:03:66:43:9F:46:8F:E8:AA:F0:5B:73:32:A8:CD:EE:53:7A:DB:78:D9"]
   }
-]
+}]
