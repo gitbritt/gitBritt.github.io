@@ -11,7 +11,7 @@ I graduated from Southern Adventist University in May of 2019 with a B.S. in Com
 
 <p>- Blue Cross Blue Shield of TN - Internship 2018</p>
 <p>- Siskin Rehab Hospital - Junior Developer 2019 - 2021</p>
-<p>- It is Written</p>
+<p>- It is Written 2021 - present</p>
 
 <a class = 'link_buttons' href="http://github.com/gitbritt">GitHub</a>
 <br />
