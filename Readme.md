@@ -58,8 +58,8 @@ I graduated from Southern Adventist University in May of 2019 with a B.S. in Com
 <a class = 'link_buttons' href = "https://github.com/gitbritt/222_web_app"> MIPS Assembly Language Web App</a><br/><br/>
 
 # YouTube Projects
-<a class = 'link_buttons' href = "https://www.youtube.com/gitbritt">Dillon's Adventure/Travel Channel</a><br/><br/>
+<a class = 'link_buttons' href = "https://www.youtube.com/@gitbritt">Dillon's Adventure/Travel Channel</a><br/><br/>
 
-<a class = 'link_buttons' href = "https://www.youtube.com/gitbritt">Dillon's History Channel</a><br/><br/>
+<a class = 'link_buttons' href = "https://www.youtube.com/@gitbritthistory">Dillon's History Channel</a><br/><br/>
 
 
