@@ -1,111 +1,140 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Presidential Countdown</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 0 20px;
-            line-height: 1.6;
-            color: #222;
-            background-color: #ffffff;
-        }
-        h1, h2 {
-            color: #111;
-        }
-        h1 {
-            border-bottom: 2px solid #ddd;
-            padding-bottom: 10px;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        footer {
-            margin-top: 50px;
-            padding-top: 20px;
-            border-top: 1px solid #ddd;
-            font-size: 0.9em;
-            color: #555;
-        }
-        a {
-            color: #0066cc;
-        }
-    </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy - Presidential Countdown</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #1a1a1a; background: #fff; max-width: 46rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { margin-bottom: .25rem; }
+  h2 { margin-top: 2.25rem; font-size: 1.25rem; }
+  h3 { margin-top: 1.5rem; font-size: 1.05rem; }
+  .updated { color: #555; margin-top: 0; }
+  table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .95rem; }
+  th, td { text-align: left; vertical-align: top; padding: .5rem .6rem; border-bottom: 1px solid #ddd; }
+  th { background: #f5f5f5; }
+  a { color: #0b57d0; }
+  footer { margin-top: 3rem; color: #666; font-size: .9rem; }
+  @media (prefers-color-scheme: dark) {
+    body { color: #e6e6e6; background: #121212; }
+    .updated, footer { color: #aaa; }
+    th { background: #1e1e1e; }
+    th, td { border-color: #333; }
+    a { color: #8ab4f8; }
+  }
+</style>
 </head>
 <body>
 
 <h1>Privacy Policy</h1>
+<p class="updated">Last updated: November 23, 2026</p>
 
-<p><strong>Last updated:</strong> February 1, 2026</p>
+<p>This policy covers the Presidential Countdown Android app ("the App"). It explains what information the App uses, where that information goes, and the choices you have. The App is made by an independent developer and published on Google Play under the Fit App Blocker developer account ("we", "us").</p>
 
-<p>
-Presidential Countdown ("the App") is provided as an ad-supported application.
-This Privacy Policy explains how information is handled.
-</p>
+<p><strong>In short:</strong> We have no accounts and no servers of our own, and we never see your places or settings. Your saved places, preferences and cached data stay on your phone. To look up your ballot and your representatives, the App sends the place you enter to the public data services listed below. The free version shows ads from Google AdMob, and the App uses Google Analytics for Firebase to learn how it is used. Both of those collect device information as described below.</p>
 
-<h2>Information Collection and Use</h2>
-<p>
-The developer does not collect, store, or transmit any personally identifiable information.
-All countdown functionality operates locally on the user’s device.
-</p>
-
-<h2>Advertising</h2>
-<p>
-The App uses Google AdMob to display advertisements.
-</p>
-<p>
-Google AdMob may collect and use certain information such as:
-</p>
+<h2>1. Information stored on your device</h2>
+<p>The App stores the following only on your phone, in the App's private storage:</p>
 <ul>
-    <li>Device identifiers (for example, Advertising ID)</li>
-    <li>IP address</li>
-    <li>App usage data</li>
-    <li>Crash and performance data</li>
+  <li><strong>Saved places</strong> you add (a city, county, ZIP code or street address).</li>
+  <li><strong>Settings</strong>, such as notification preferences and which elections you follow.</li>
+  <li><strong>Cached results</strong> from the data services below (ballot information, districts, representatives and legislative votes), kept so the App works quickly and offline.</li>
+  <li><strong>Purchase status</strong>, a flag recording whether you bought the ad-free upgrade.</li>
+  <li><strong>Review prompt status</strong>, a note of whether the App has asked you for a rating.</li>
 </ul>
-<p>
-This information is used to:
-</p>
+<p>We do not receive any of this. You can delete all of it at any time in <em>Settings → Data and privacy → Clear saved places and data</em>, or by uninstalling the App.</p>
+<p><strong>Device backup:</strong> If Android backup is turned on, Android may include the App's data in your device backup in your Google account, as it does for most apps. That backup is handled by Google under your Google account settings, and we cannot access it.</p>
+
+<h2>2. Location</h2>
+<p>The App asks for <strong>approximate (coarse) location</strong> only when you tap "Use my location" on the Places screen. It never asks for precise location, and it never reads your location in the background.</p>
+<p>When you tap the button, the App reads your approximate location once and uses Android's built-in geocoding service to turn it into a place name or address. That service is provided by your device, usually Google. The result fills in the place field so you can save it. The App does not store raw coordinates from your device or send them to us.</p>
+<p>You can turn off this permission at any time in Android Settings and type a place instead.</p>
+
+<h2>3. Civic data lookups</h2>
+<p>To show your ballot, districts and representatives, the App sends requests directly from your phone to these services. They also receive your IP address and basic request information, as any website does.</p>
+<table>
+  <thead><tr><th>Service</th><th>What the App sends</th><th>Why</th></tr></thead>
+  <tbody>
+    <tr>
+      <td><a href="https://developers.google.com/civic-information">Google Civic Information API</a></td>
+      <td>The text of a saved place (city, ZIP or address)</td>
+      <td>Upcoming elections, ballot contests, polling and election official information</td>
+    </tr>
+    <tr>
+      <td><a href="https://geocoding.geo.census.gov/">U.S. Census Bureau Geocoder</a></td>
+      <td>A saved street address (only when it is a full street address)</td>
+      <td>Finding your congressional district and the address's map coordinates</td>
+    </tr>
+    <tr>
+      <td><a href="https://openstates.org">Open States</a> (Plural Policy)</td>
+      <td>The map coordinates of that street address, from the Census lookup; your state for vote listings</td>
+      <td>Finding your state legislators and recent state legislative votes</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/unitedstates/congress-legislators">unitedstates/congress-legislators</a> (GitHub Pages)</td>
+      <td>Nothing about you; the App downloads the public list of members of Congress and their photos</td>
+      <td>Showing your members of Congress</td>
+    </tr>
+  </tbody>
+</table>
+<p>Each service handles requests under its own privacy policy: <a href="https://policies.google.com/privacy">Google</a>, <a href="https://www.census.gov/about/policies/privacy.html">U.S. Census Bureau</a>, <a href="https://pluralpolicy.com/privacy-policy/">Plural Policy (Open States)</a> and <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub</a>. If you enter only a city or ZIP code rather than a street address, the Census and Open States lookups are not made.</p>
+<p>Links in the App to other websites, such as the Supreme Court, the National Archives or the Play Store, open in your browser and follow those sites' own policies.</p>
+
+<h2>4. Advertising (Google AdMob)</h2>
+<p>The free version of the App shows banner ads from <a href="https://admob.google.com/">Google AdMob</a>. To serve and measure ads, AdMob may collect and use:</p>
 <ul>
-    <li>Serve and personalize ads</li>
-    <li>Measure ad performance</li>
-    <li>Improve ad quality</li>
+  <li>Device identifiers, including your Android Advertising ID</li>
+  <li>IP address, from which an approximate location may be inferred</li>
+  <li>Device and app information, such as model, OS version, language and app version</li>
+  <li>Ad interactions, such as views and taps</li>
+  <li>Diagnostic and performance data</li>
 </ul>
-<p>
-The developer does not have access to, store, or control this data.
-</p>
-<p>
-Google’s Privacy Policy:
-<a href="https://policies.google.com/privacy" target="_blank">
-https://policies.google.com/privacy
-</a>
-</p>
+<p>Google may use this to show personalized ads, limit repeat ads, measure ad performance and prevent fraud. We do not receive your Advertising ID or any personal information from AdMob, only combined reports such as total ad impressions. See <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a>.</p>
+<p><strong>Your choices:</strong> You can reset or delete your Advertising ID, or opt out of personalized ads, in Android Settings → Google → Ads (or Settings → Privacy → Ads). If you buy the ad-free upgrade, the App stops loading ads entirely.</p>
 
-<h2>Third-Party Services</h2>
-<p>
-The App uses the following third-party service:
-</p>
+<h2>5. Analytics (Google Analytics for Firebase)</h2>
+<p>The App uses <a href="https://firebase.google.com/products/analytics">Google Analytics for Firebase</a> to understand how the App is used in aggregate, such as how many people open it and which screens are popular. Firebase automatically collects:</p>
 <ul>
-    <li>Google AdMob</li>
+  <li>An app-instance identifier, plus the Advertising ID where available</li>
+  <li>Device model, OS version, language, country (from IP address) and app version</li>
+  <li>App usage events, such as first open, sessions, screens viewed and in-app purchases</li>
+</ul>
+<p>We see this information only in aggregate and do not use it to identify you. The App does not send your saved places or addresses to Firebase. See <a href="https://firebase.google.com/support/privacy">Privacy and Security in Firebase</a>.</p>
+
+<h2>6. Purchases (Google Play Billing)</h2>
+<p>The ad-free upgrade is sold through Google Play. Google handles payment, and we never see your payment details. The App receives only a confirmation that the purchase is valid, which it stores on your device. Google Play's handling of purchases is covered by the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
+
+<h2>7. Ratings (Google Play In-App Review)</h2>
+<p>The App may occasionally show Google Play's built-in rating prompt, or you can open it from Settings. Google handles any rating or review you submit, and we do not learn whether you left one through the prompt.</p>
+
+<h2>8. Notifications</h2>
+<p>Reminders, such as the daily noon countdown, are scheduled on your device. They are not sent from a server, and the App does not use push messaging services. You can turn them off in the App or in Android Settings.</p>
+
+<h2>9. What we do not do</h2>
+<ul>
+  <li>We do not require an account or ask for your name, email or phone number.</li>
+  <li>We do not run our own servers or keep a copy of your places, addresses or settings.</li>
+  <li>We do not sell your personal information or share it with data brokers.</li>
+  <li>We do not track your location in the background.</li>
+  <li>We do not ask for or record your political affiliation or how you vote.</li>
 </ul>
 
-<h2>Log Data</h2>
-<p>
-The developer does not collect log data. However, Google AdMob may collect limited
-technical information for diagnostics and ad performance.
-</p>
+<h2>10. Children</h2>
+<p>The App is intended for a general audience and is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided information through the App, contact us and we will help remove it.</p>
 
-<h2>Cookies</h2>
-<p>
-The App itself does not use cookies. Google AdMob may use cookies or similar technologies.
-</p>
+<h2>11. Your rights</h2>
+<p>Because your saved data stays on your device, you control it directly. You can view, change or delete it in the App, or remove everything by clearing the App's data or uninstalling it. For data collected by Google through AdMob, Firebase or Play, you can use the controls in your Google account and Android settings, or contact Google. Depending on where you live, laws such as the GDPR or U.S. state privacy laws (for example, the CCPA/CPRA) may give you additional rights. You can contact us at the address below to make a request.</p>
 
-<footer>
-    © 2026 Presidential Countdown
-</footer>
+<h2>12. Security</h2>
+<p>All network requests the App makes use encrypted HTTPS connections. Data stored on your device is kept in the App's private storage, which other apps cannot read.</p>
+
+<h2>13. Changes to this policy</h2>
+<p>We may update this policy when the App changes. The "Last updated" date at the top will show when it last changed. Significant changes will also be noted in the App's release notes.</p>
+
+<h2>14. Contact</h2>
+<p>Questions or requests about this policy: <a href="mailto:fitappblock@gmail.com">fitappblock@gmail.com</a></p>
+
+<footer>© 2026 Presidential Countdown</footer>
 
 </body>
 </html>
